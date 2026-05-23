@@ -12,4 +12,8 @@
   <url><loc>https://meerfollowers.nl/youtube-likes.html</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
   <url><loc>https://meerfollowers.nl/twitch-volgers.html</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
   <url><loc>https://meerfollowers.nl/twitch-views.html</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://meerfollowers.nl/blog.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://meerfollowers.nl/blog-tiktok-viraal.html</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://meerfollowers.nl/blog-instagram-blauw-vinkje.html</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://meerfollowers.nl/blog-youtube-algoritme.html</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
 </urlset>
